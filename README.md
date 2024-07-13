@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tushar854rawat/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1454-remove-palindromic-subsequences](https://github.com/tushar854rawat/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/tushar854rawat/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tushar854rawat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/tushar854rawat/LeetCode/tree/master/2846-robot-collisions) |
+## Hash Table
+|  |
+| ------- |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/tushar854rawat/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 <!---LeetCode Topics End-->
