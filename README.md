@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/tushar854rawat/LeetCode/tree/master/0068-text-justification) |
 | [0132-palindrome-partitioning-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tushar854rawat/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1454-remove-palindromic-subsequences](https://github.com/tushar854rawat/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/tushar854rawat/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tushar854rawat/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tushar854rawat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/tushar854rawat/LeetCode/tree/master/2846-robot-collisions) |
@@ -41,9 +43,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/tushar854rawat/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/tushar854rawat/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 <!---LeetCode Topics End-->
