@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/tushar854rawat/LeetCode/tree/master/0068-text-justification) |
 | [0132-palindrome-partitioning-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tushar854rawat/LeetCode/tree/master/0139-word-break) |
+| [0214-shortest-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [1252-break-a-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tushar854rawat/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -85,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tushar854rawat/LeetCode/tree/master/0139-word-break) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
