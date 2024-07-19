@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushar854rawat/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1454-remove-palindromic-subsequences](https://github.com/tushar854rawat/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 ## Dynamic Programming
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0148-sort-list) |
 | [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/tushar854rawat/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -109,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushar854rawat/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
