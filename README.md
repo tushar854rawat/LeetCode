@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/tushar854rawat/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/tushar854rawat/LeetCode/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/tushar854rawat/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushar854rawat/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
