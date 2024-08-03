@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/tushar854rawat/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/tushar854rawat/LeetCode/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/tushar854rawat/LeetCode/tree/master/0139-word-break) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/tushar854rawat/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
