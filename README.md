@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tushar854rawat/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/tushar854rawat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/tushar854rawat/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tushar854rawat/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/tushar854rawat/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tushar854rawat/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushar854rawat/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tushar854rawat/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
