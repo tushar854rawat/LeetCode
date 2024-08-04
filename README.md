@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tushar854rawat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tushar854rawat/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tushar854rawat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/tushar854rawat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/tushar854rawat/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/tushar854rawat/LeetCode/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/tushar854rawat/LeetCode/tree/master/0139-word-break) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tushar854rawat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushar854rawat/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/tushar854rawat/LeetCode/tree/master/0283-move-zeroes) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tushar854rawat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0132-palindrome-partitioning-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tushar854rawat/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/tushar854rawat/LeetCode/tree/master/0198-house-robber) |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0040-combination-sum-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tushar854rawat/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
