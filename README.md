@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/tushar854rawat/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/tushar854rawat/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tushar854rawat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tushar854rawat/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/tushar854rawat/LeetCode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/tushar854rawat/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/tushar854rawat/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tushar854rawat/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tushar854rawat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/tushar854rawat/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tushar854rawat/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/tushar854rawat/LeetCode/tree/master/2502-sort-the-people) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tushar854rawat/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tushar854rawat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/tushar854rawat/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/tushar854rawat/LeetCode/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tushar854rawat/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tushar854rawat/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
