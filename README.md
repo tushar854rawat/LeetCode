@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tushar854rawat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tushar854rawat/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/tushar854rawat/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushar854rawat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tushar854rawat/LeetCode/tree/master/0139-word-break) |
@@ -264,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tushar854rawat/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tushar854rawat/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tushar854rawat/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
