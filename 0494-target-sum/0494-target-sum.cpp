@@ -1,15 +1,30 @@
 class Solution {
 public:
-    int f(int ind, int sum, vector<int>& arr, int target) {
-        if (ind == arr.size()) {
-            return (sum == target) ? 1 : 0;
+    unordered_map<string, int> memo;
+    
+    int dp(vector<int>& nums, int target, int index, int curr_sum) {
+        string key = to_string(index) + "," + to_string(curr_sum);
+        if (memo.find(key) != memo.end()) {
+            return memo[key];
         }
-        int add = f(ind + 1, sum + arr[ind], arr, target);
-        int subtract = f(ind + 1, sum - arr[ind], arr, target);
-        return add + subtract;
+        
+        if (index < 0 && curr_sum == target) {
+            return 1;
+        }
+        if (index < 0) {
+            return 0;
+        }
+        
+        int positive = dp(nums, target, index - 1, curr_sum + nums[index]);
+        int negative = dp(nums, target, index - 1, curr_sum - nums[index]);
+        
+        memo[key] = positive + negative;
+        return memo[key];
     }
-
-    int findTargetSumWays(vector<int>& nums, int target) {
-        return f(0, 0, nums, target);
+    
+    int findTargetSumWays(vector<int>& nums, int S) {
+        int index = nums.size() - 1;
+        int curr_sum = 0;
+        return dp(nums, S, index, curr_sum);
     }
 };
