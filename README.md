@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tushar854rawat/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tushar854rawat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/tushar854rawat/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/tushar854rawat/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tushar854rawat/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tushar854rawat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tushar854rawat/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/tushar854rawat/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0494-target-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/tushar854rawat/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tushar854rawat/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/tushar854rawat/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
