@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0337-house-robber-iii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tushar854rawat/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/tushar854rawat/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tushar854rawat/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0337-house-robber-iii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tushar854rawat/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/tushar854rawat/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tushar854rawat/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tushar854rawat/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tushar854rawat/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -359,4 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/tushar854rawat/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
