@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tushar854rawat/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/tushar854rawat/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tushar854rawat/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tushar854rawat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/tushar854rawat/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/tushar854rawat/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -389,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tushar854rawat/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
