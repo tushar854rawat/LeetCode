@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/tushar854rawat/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0870-magic-squares-in-grid](https://github.com/tushar854rawat/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/tushar854rawat/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/tushar854rawat/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/tushar854rawat/LeetCode/tree/master/0890-lemonade-change) |
 | [1252-break-a-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tushar854rawat/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tushar854rawat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
