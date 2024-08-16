@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tushar854rawat/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/tushar854rawat/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/tushar854rawat/LeetCode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/tushar854rawat/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/tushar854rawat/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tushar854rawat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/tushar854rawat/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tushar854rawat/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/tushar854rawat/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/tushar854rawat/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tushar854rawat/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tushar854rawat/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/tushar854rawat/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/tushar854rawat/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tushar854rawat/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tushar854rawat/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
