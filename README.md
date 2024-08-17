@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tushar854rawat/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/tushar854rawat/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tushar854rawat/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/tushar854rawat/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tushar854rawat/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0337-house-robber-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tushar854rawat/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/tushar854rawat/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tushar854rawat/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
