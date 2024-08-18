@@ -4,6 +4,7 @@ public:
         int n = nums.size();
         vector<int>dp(n+1);
         vector<int>ans;
+
         dp[0]=1;
         for(int i=1;i<n;i++){
             if(nums[i]==nums[i-1]+1){
