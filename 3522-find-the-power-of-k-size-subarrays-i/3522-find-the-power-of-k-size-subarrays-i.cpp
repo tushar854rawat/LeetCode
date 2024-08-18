@@ -2,20 +2,26 @@ class Solution {
 public:
     vector<int> resultsArray(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int>res(n-k+1,-1);
-        for(int i=0;i<n;i++){
-            int j = i+1;
-            int maxi = 0;
-            maxi = max(maxi,nums[i]);
-            int a = 1;
-            while(j<n && a<k && nums[j]-nums[j-1]==1){
-                maxi = max(maxi,nums[j]);
-                j++;
-                a++;
+        vector<int>dp(n+1);
+        vector<int>ans;
+
+        dp[0]=1;
+        for(int i=1;i<n;i++){
+            if(nums[i]==nums[i-1]+1){
+                dp[i] = dp[i-1]+1;
             }
-            if(a==k)
-            res[i]=maxi;
+            else{
+                dp[i]=1;
+            }
         }
-        return res;
+        for(int i=k-1;i<n;i++){
+            if(dp[i]>=k){
+                ans.push_back(nums[i]);
+            }
+            else{
+                ans.push_back(-1);
+            }
+        }
+        return ans;
     }
 };
