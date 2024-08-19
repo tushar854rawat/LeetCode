@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/tushar854rawat/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0068-text-justification](https://github.com/tushar854rawat/LeetCode/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/tushar854rawat/LeetCode/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tushar854rawat/LeetCode/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tushar854rawat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tushar854rawat/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tushar854rawat/LeetCode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/tushar854rawat/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushar854rawat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tushar854rawat/LeetCode/tree/master/0139-word-break) |
