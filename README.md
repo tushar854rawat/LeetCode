@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tushar854rawat/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/tushar854rawat/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tushar854rawat/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/tushar854rawat/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/tushar854rawat/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tushar854rawat/LeetCode/tree/master/0322-coin-change) |
 | [1036-rotting-oranges](https://github.com/tushar854rawat/LeetCode/tree/master/1036-rotting-oranges) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/tushar854rawat/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tushar854rawat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/tushar854rawat/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/tushar854rawat/LeetCode/tree/master/0279-perfect-squares) |
 | [0564-find-the-closest-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tushar854rawat/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/tushar854rawat/LeetCode/tree/master/0650-2-keys-keyboard) |
