@@ -13,7 +13,16 @@ public:
         return dp[n] = sum;
     }
     int numSquares(int n) {
-        vector<int>dp(n+1,-1);
-        return f(n,dp);
+        vector<int>dp(n+1,INT_MAX);
+        // return f(n,dp);
+
+        dp[0] = 0;
+        for(int i=1;i<=n;i++){
+            for(int j=1;j*j<=i;j++){
+                int t = j*j;
+                dp[i]=min(dp[i],dp[i-t]+1);
+            }
+        }
+        return dp[n];
     }
 };
