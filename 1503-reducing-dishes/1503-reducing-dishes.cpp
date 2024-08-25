@@ -13,10 +13,22 @@ public:
         return dp[ind][s] = maxi;
     }
     int maxSatisfaction(vector<int>& arr) {
-        int n = arr.size();
+        // int n = arr.size();
         sort(arr.begin(),arr.end());
-        int maxi = 0;
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-        return f(0,1,arr,maxi,dp);
+        // int maxi = 0;
+        // vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
+        // return f(0,1,arr,maxi,dp);
+
+        int n = arr.size();
+        vector<vector<int>>dp(n+1,vector<int>(n+1,0));
+        
+        for(int index=n-1;index>=0;index--){
+            for(int time=index;time>=0;time--){
+                int incl = arr[index]*(time+1)+dp[index+1][time+1];
+                int exe = 0+dp[index+1][time];
+                dp[index][time] = max(incl,exe);
+            }
+        }  
+        return dp[0][0];
     }
 };
