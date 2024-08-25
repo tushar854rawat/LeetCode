@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/tushar854rawat/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/tushar854rawat/LeetCode/tree/master/1036-rotting-oranges) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/tushar854rawat/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1196-filling-bookcase-shelves](https://github.com/tushar854rawat/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tushar854rawat/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/tushar854rawat/LeetCode/tree/master/1240-stone-game-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/tushar854rawat/LeetCode/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/tushar854rawat/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/tushar854rawat/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/tushar854rawat/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1196-filling-bookcase-shelves](https://github.com/tushar854rawat/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/tushar854rawat/LeetCode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tushar854rawat/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
