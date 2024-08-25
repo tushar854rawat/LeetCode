@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/tushar854rawat/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tushar854rawat/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tushar854rawat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1952-minimum-sideway-jumps](https://github.com/tushar854rawat/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/tushar854rawat/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/tushar854rawat/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tushar854rawat/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tushar854rawat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1952-minimum-sideway-jumps](https://github.com/tushar854rawat/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/tushar854rawat/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/tushar854rawat/LeetCode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tushar854rawat/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/tushar854rawat/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1952-minimum-sideway-jumps](https://github.com/tushar854rawat/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/tushar854rawat/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/tushar854rawat/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Sorting
