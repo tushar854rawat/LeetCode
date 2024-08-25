@@ -20,15 +20,18 @@ public:
         // return f(0,1,arr,maxi,dp);
 
         int n = arr.size();
-        vector<vector<int>>dp(n+1,vector<int>(n+1,0));
+        // vector<vector<int>>dp(n+1,vector<int>(n+1,0));
+        vector<int>curr(n+1,0);
+        vector<int>next(n+1,0);
         
         for(int index=n-1;index>=0;index--){
             for(int time=index;time>=0;time--){
-                int incl = arr[index]*(time+1)+dp[index+1][time+1];
-                int exe = 0+dp[index+1][time];
-                dp[index][time] = max(incl,exe);
+                int incl = arr[index]*(time+1)+next[time+1];
+                int exe = 0+next[time];
+                curr[time] = max(incl,exe);
             }
+            next=curr;
         }  
-        return dp[0][0];
+        return next[0];
     }
 };
