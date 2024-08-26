@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tushar854rawat/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/tushar854rawat/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tushar854rawat/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/tushar854rawat/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/tushar854rawat/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tushar854rawat/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/tushar854rawat/LeetCode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tushar854rawat/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/tushar854rawat/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushar854rawat/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/tushar854rawat/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tushar854rawat/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/tushar854rawat/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0731-my-calendar-ii) |
