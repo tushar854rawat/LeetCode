@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/tushar854rawat/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/tushar854rawat/LeetCode/tree/master/1036-rotting-oranges) |
+| [1087-longest-arithmetic-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/tushar854rawat/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1196-filling-bookcase-shelves](https://github.com/tushar854rawat/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tushar854rawat/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/tushar854rawat/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/tushar854rawat/LeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1025-minimum-cost-for-tickets](https://github.com/tushar854rawat/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1087-longest-arithmetic-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/tushar854rawat/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1196-filling-bookcase-shelves](https://github.com/tushar854rawat/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/tushar854rawat/LeetCode/tree/master/1240-stone-game-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tushar854rawat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/tushar854rawat/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [1087-longest-arithmetic-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/tushar854rawat/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tushar854rawat/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tushar854rawat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/tushar854rawat/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/tushar854rawat/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1087-longest-arithmetic-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/tushar854rawat/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Linked List
 |  |
