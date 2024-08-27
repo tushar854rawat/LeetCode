@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/tushar854rawat/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/tushar854rawat/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/tushar854rawat/LeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0870-magic-squares-in-grid](https://github.com/tushar854rawat/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/tushar854rawat/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/tushar854rawat/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/tushar854rawat/LeetCode/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/tushar854rawat/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/tushar854rawat/LeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1025-minimum-cost-for-tickets](https://github.com/tushar854rawat/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/tushar854rawat/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1196-filling-bookcase-shelves](https://github.com/tushar854rawat/LeetCode/tree/master/1196-filling-bookcase-shelves) |
