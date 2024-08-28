@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/tushar854rawat/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/tushar854rawat/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0516-longest-palindromic-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tushar854rawat/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/tushar854rawat/LeetCode/tree/master/0664-strange-printer) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/tushar854rawat/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/tushar854rawat/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/tushar854rawat/LeetCode/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/tushar854rawat/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
