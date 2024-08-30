@@ -1,22 +1,18 @@
 class Solution {
 public:
-    void f(int n,int ind,vector<char>& a,vector<string>& ans,string& s){
-        if(s.size()==n){
-            ans.push_back(s);
-            return;
+    int f(int n,int j,vector<vector<int>>&dp){
+        if(n==0){
+            return 1;
         }
-        
-        for(int i=ind;i<a.size();i++){
-            s+=a[i];
-            f(n,i,a,ans,s);
-            s.pop_back();
+        if(dp[n][j]!=-1) return dp[n][j];
+        int res = 0;
+        for(int k=j;k<5;k++){
+            res+=f(n-1,k,dp);
         }
+        return dp[n][j] = res;
     }
     int countVowelStrings(int n) {
-        vector<char>s = {'a','e','i','o','u'};
-        vector<string>ans;
-        string res = "";
-        f(n,0,s,ans,res);
-        return ans.size();
+        vector<vector<int>>dp(n+1,vector<int>(5,-1));
+        return f(n,0,dp);
     }
 };
