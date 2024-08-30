@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-pizza-with-3n-slices](https://github.com/tushar854rawat/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/tushar854rawat/LeetCode/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/tushar854rawat/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1761-count-sorted-vowel-strings](https://github.com/tushar854rawat/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1952-minimum-sideway-jumps](https://github.com/tushar854rawat/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/tushar854rawat/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/tushar854rawat/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -475,10 +476,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/tushar854rawat/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/tushar854rawat/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/tushar854rawat/LeetCode/tree/master/1240-stone-game-ii) |
+| [1761-count-sorted-vowel-strings](https://github.com/tushar854rawat/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tushar854rawat/LeetCode/tree/master/0062-unique-paths) |
+| [1761-count-sorted-vowel-strings](https://github.com/tushar854rawat/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 ## Union Find
 |  |
 | ------- |
