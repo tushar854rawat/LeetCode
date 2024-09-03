@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/tushar854rawat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1952-minimum-sideway-jumps](https://github.com/tushar854rawat/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tushar854rawat/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2035-count-sub-islands](https://github.com/tushar854rawat/LeetCode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/tushar854rawat/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2103-find-all-groups-of-farmland](https://github.com/tushar854rawat/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tushar854rawat/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/tushar854rawat/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/tushar854rawat/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/tushar854rawat/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/tushar854rawat/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/tushar854rawat/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tushar854rawat/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tushar854rawat/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tushar854rawat/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/tushar854rawat/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tushar854rawat/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/tushar854rawat/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/tushar854rawat/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tushar854rawat/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tushar854rawat/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/tushar854rawat/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/tushar854rawat/LeetCode/tree/master/1036-rotting-oranges) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/tushar854rawat/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/tushar854rawat/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/tushar854rawat/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/tushar854rawat/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tushar854rawat/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tushar854rawat/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/tushar854rawat/LeetCode/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/tushar854rawat/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2035-count-sub-islands](https://github.com/tushar854rawat/LeetCode/tree/master/2035-count-sub-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tushar854rawat/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Recursion
 |  |
