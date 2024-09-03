@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-minimum-sideway-jumps](https://github.com/tushar854rawat/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tushar854rawat/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/tushar854rawat/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2103-find-all-groups-of-farmland](https://github.com/tushar854rawat/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tushar854rawat/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/tushar854rawat/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/tushar854rawat/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/tushar854rawat/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/tushar854rawat/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2103-find-all-groups-of-farmland](https://github.com/tushar854rawat/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tushar854rawat/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tushar854rawat/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/tushar854rawat/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tushar854rawat/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2103-find-all-groups-of-farmland](https://github.com/tushar854rawat/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tushar854rawat/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tushar854rawat/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/tushar854rawat/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/tushar854rawat/LeetCode/tree/master/1036-rotting-oranges) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/tushar854rawat/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2103-find-all-groups-of-farmland](https://github.com/tushar854rawat/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/tushar854rawat/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
