@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/tushar854rawat/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tushar854rawat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0337-house-robber-iii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tushar854rawat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/tushar854rawat/LeetCode/tree/master/0200-number-of-islands) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/tushar854rawat/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tushar854rawat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0337-house-robber-iii) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tushar854rawat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/tushar854rawat/LeetCode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/tushar854rawat/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tushar854rawat/LeetCode/tree/master/0322-coin-change) |
