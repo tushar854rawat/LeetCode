@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/tushar854rawat/LeetCode/tree/master/0200-number-of-islands) |
 | [0337-house-robber-iii](https://github.com/tushar854rawat/LeetCode/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/tushar854rawat/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/tushar854rawat/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/tushar854rawat/LeetCode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/tushar854rawat/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tushar854rawat/LeetCode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/tushar854rawat/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
 | ------- |
