@@ -1,30 +1,29 @@
 class Solution {
 public:
-    unordered_map<string, int> memo;
-    
-    int dp(vector<int>& nums, int target, int index, int curr_sum) {
-        string key = to_string(index) + "," + to_string(curr_sum);
-        if (memo.find(key) != memo.end()) {
-            return memo[key];
-        }
-        
-        if (index < 0 && curr_sum == target) {
-            return 1;
-        }
-        if (index < 0) {
+    int f(int ind,int t,vector<int>& arr,vector<vector<int>>& dp){
+        if(t<0) return 0;
+        if(ind==0){
+            if(t==0 && arr[ind]==0) return 2;
+            if(t==0 || arr[ind]==t) return 1;
             return 0;
         }
-        
-        int positive = dp(nums, target, index - 1, curr_sum + nums[index]);
-        int negative = dp(nums, target, index - 1, curr_sum - nums[index]);
-        
-        memo[key] = positive + negative;
-        return memo[key];
+        if(dp[ind][t]!=-1) return dp[ind][t];
+        int incl = 0;
+        if(arr[ind]<=t){
+            incl = f(ind-1,t-arr[ind],arr,dp);
+        }        
+        int exe = f(ind-1,t,arr,dp);
+        return dp[ind][t] = incl+exe;
     }
-    
-    int findTargetSumWays(vector<int>& nums, int S) {
-        int index = nums.size() - 1;
-        int curr_sum = 0;
-        return dp(nums, S, index, curr_sum);
+    int findTargetSumWays(vector<int>& nums, int target) {
+        int n = nums.size();
+        int total = 0;
+        for(auto x : nums){
+            total += x;
+        }
+        int t = total-target/2;
+        if(total-target<0 || (total-target)%2) return 0;
+        vector<vector<int>>dp(n,vector<int>(t+1,-1));
+        return f(n-1,(total-target)/2,nums,dp);
     }
 };
