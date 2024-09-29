@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tushar854rawat/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tushar854rawat/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0432-all-oone-data-structure](https://github.com/tushar854rawat/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/tushar854rawat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/tushar854rawat/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tushar854rawat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/tushar854rawat/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0148-sort-list) |
+| [0432-all-oone-data-structure](https://github.com/tushar854rawat/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/tushar854rawat/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/tushar854rawat/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/tushar854rawat/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/tushar854rawat/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/tushar854rawat/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0432-all-oone-data-structure](https://github.com/tushar854rawat/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/tushar854rawat/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tushar854rawat/LeetCode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/tushar854rawat/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Monotonic Queue
 |  |
 | ------- |
