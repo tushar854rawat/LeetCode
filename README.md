@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/tushar854rawat/LeetCode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/tushar854rawat/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/tushar854rawat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tushar854rawat/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tushar854rawat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/tushar854rawat/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/tushar854rawat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tushar854rawat/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tushar854rawat/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tushar854rawat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/tushar854rawat/LeetCode/tree/master/0134-gas-station) |
 | [0624-maximum-distance-in-arrays](https://github.com/tushar854rawat/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/tushar854rawat/LeetCode/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/tushar854rawat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1252-break-a-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1489-pizza-with-3n-slices](https://github.com/tushar854rawat/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/tushar854rawat/LeetCode/tree/master/1503-reducing-dishes) |
