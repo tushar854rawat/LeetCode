@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/tushar854rawat/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tushar854rawat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/tushar854rawat/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tushar854rawat/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/tushar854rawat/LeetCode/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/tushar854rawat/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/tushar854rawat/LeetCode/tree/master/0729-my-calendar-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/tushar854rawat/LeetCode/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/tushar854rawat/LeetCode/tree/master/0134-gas-station) |
 | [0624-maximum-distance-in-arrays](https://github.com/tushar854rawat/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tushar854rawat/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/tushar854rawat/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tushar854rawat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1252-break-a-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/1252-break-a-palindrome) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tushar854rawat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/tushar854rawat/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0539-minimum-time-difference](https://github.com/tushar854rawat/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tushar854rawat/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/tushar854rawat/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/0948-sort-an-array) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/tushar854rawat/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tushar854rawat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tushar854rawat/LeetCode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tushar854rawat/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/tushar854rawat/LeetCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/tushar854rawat/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/tushar854rawat/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tushar854rawat/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tushar854rawat/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/tushar854rawat/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -601,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/tushar854rawat/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/tushar854rawat/LeetCode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tushar854rawat/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/tushar854rawat/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Backtracking
 |  |
