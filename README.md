@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tushar854rawat/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/tushar854rawat/LeetCode/tree/master/1304-longest-happy-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/tushar854rawat/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tushar854rawat/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/tushar854rawat/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/tushar854rawat/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tushar854rawat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1252-break-a-palindrome](https://github.com/tushar854rawat/LeetCode/tree/master/1252-break-a-palindrome) |
+| [1304-longest-happy-string](https://github.com/tushar854rawat/LeetCode/tree/master/1304-longest-happy-string) |
 | [1489-pizza-with-3n-slices](https://github.com/tushar854rawat/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/tushar854rawat/LeetCode/tree/master/1503-reducing-dishes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tushar854rawat/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tushar854rawat/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tushar854rawat/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/tushar854rawat/LeetCode/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/tushar854rawat/LeetCode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/tushar854rawat/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1489-pizza-with-3n-slices](https://github.com/tushar854rawat/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/tushar854rawat/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
