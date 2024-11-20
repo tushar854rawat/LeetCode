@@ -1,25 +1,23 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int area = 0;
-        int l = 0,r = height.size()-1,ml = 0,mr = 0;
-
+        int l = 0,r = height.size() - 1,area = 0,lm = 0,rm = 0;
         while(l<=r){
             if(height[l]<=height[r]){
-                if(height[l]>=ml){
-                    ml = height[l];
+                if(height[l]>=lm){
+                    lm = height[l];
                 }
                 else{
-                    area += ml-height[l];
+                    area += lm - height[l];
                 }
                 l++;
             }
             else{
-                if(height[r]>=mr){
-                    mr = height[r];
+                if(height[r]>rm){
+                    rm = height[r];
                 }
                 else{
-                    area += mr-height[r];
+                    area += rm - height[r];
                 }
                 r--;
             }
