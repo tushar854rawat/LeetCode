@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/tushar854rawat/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tushar854rawat/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tushar854rawat/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/tushar854rawat/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tushar854rawat/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/tushar854rawat/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tushar854rawat/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tushar854rawat/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tushar854rawat/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tushar854rawat/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/tushar854rawat/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/tushar854rawat/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tushar854rawat/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/tushar854rawat/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tushar854rawat/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/tushar854rawat/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/tushar854rawat/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tushar854rawat/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/tushar854rawat/LeetCode/tree/master/2846-robot-collisions) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/tushar854rawat/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/tushar854rawat/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tushar854rawat/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/tushar854rawat/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2803-modify-graph-edge-weights](https://github.com/tushar854rawat/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/tushar854rawat/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-pizza-with-3n-slices](https://github.com/tushar854rawat/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/tushar854rawat/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tushar854rawat/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/tushar854rawat/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2803-modify-graph-edge-weights](https://github.com/tushar854rawat/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/tushar854rawat/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Bucket Sort
