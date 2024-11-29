@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/tushar854rawat/LeetCode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/tushar854rawat/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tushar854rawat/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/tushar854rawat/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tushar854rawat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/tushar854rawat/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tushar854rawat/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/tushar854rawat/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/tushar854rawat/LeetCode/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/tushar854rawat/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/tushar854rawat/LeetCode/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/tushar854rawat/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tushar854rawat/LeetCode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/tushar854rawat/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/tushar854rawat/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/tushar854rawat/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/tushar854rawat/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tushar854rawat/LeetCode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/tushar854rawat/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/tushar854rawat/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tushar854rawat/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/tushar854rawat/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/tushar854rawat/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tushar854rawat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/tushar854rawat/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tushar854rawat/LeetCode/tree/master/0733-flood-fill) |
