@@ -853,4 +853,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0856-consecutive-numbers-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tushar854rawat/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
