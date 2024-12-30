@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/tushar854rawat/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tushar854rawat/LeetCode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/tushar854rawat/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tushar854rawat/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tushar854rawat/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tushar854rawat/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tushar854rawat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/tushar854rawat/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tushar854rawat/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tushar854rawat/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/tushar854rawat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/tushar854rawat/LeetCode/tree/master/0148-sort-list) |
