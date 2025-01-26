@@ -1,21 +1,23 @@
 class Solution {
 public:
-    bool f(int ind,int tar,vector<int>& nums,vector<vector<int>>&dp){
-        if(tar<0) return false;
-        if(ind>=nums.size() && tar!=0) return false;
+    bool f(int n,int tar,vector<int>& nums,vector<vector<int>>& dp){
+        if(n<0 && tar!=0) return false;
         if(tar==0) return true;
-        if(dp[ind][tar]!=-1) return dp[ind][tar];
-        bool incl = f(ind+1,tar-nums[ind],nums,dp);
-        bool exe = f(ind+1,tar,nums,dp);
-        return dp[ind][tar] = incl||exe;
+        if(tar<0 || n<0) return false;
+        if(dp[n][tar] != -1) return dp[n][tar];
+
+        int incl = f(n-1,tar-nums[n],nums,dp);
+        int exe = f(n-1,tar,nums,dp);
+        return dp[n][tar] = incl || exe;
     }
     bool canPartition(vector<int>& nums) {
-        int tar = 0;
+        int n = nums.size();
+        int sum = 0;
         for(auto x : nums){
-            tar+=x;
+            sum += x;
         }
-        if(tar%2==1) return false;
-        vector<vector<int>>dp(nums.size()+1,vector<int>(tar+1,-1));
-        return f(0,tar/2,nums,dp);
+        if(sum%2!=0) return false;
+        vector<vector<int>>dp(n+1,vector<int>(sum+1,-1));
+        return f(n-1,sum/2,nums,dp);
     }
 };
