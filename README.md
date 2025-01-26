@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/tushar854rawat/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/tushar854rawat/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/tushar854rawat/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushar854rawat/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tushar854rawat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushar854rawat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tushar854rawat/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tushar854rawat/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/tushar854rawat/LeetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/tushar854rawat/LeetCode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/tushar854rawat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/tushar854rawat/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tushar854rawat/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/tushar854rawat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/tushar854rawat/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/tushar854rawat/LeetCode/tree/master/0476-number-complement) |
